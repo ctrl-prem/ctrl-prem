@@ -1,9 +1,14 @@
-## Hi there 👋 I’m Prem
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Prem+%F0%9F%91%8B;Software+Development+Engineer;Backend+%7C+Full-Stack+Engineer;Building+Scalable+Systems" alt="Typing SVG" />
+</p>
+
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I’m Prem</h1>
+
 
 Software Development Engineer focused on building **scalable, production-grade backend and full-stack systems**.  
 I enjoy working on **greenfield products**, system design, and performance optimization.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 💫 About Me
 
@@ -15,8 +20,10 @@ I enjoy working on **greenfield products**, system design, and performance optim
 - Comfortable owning features **end-to-end**, from design to production  
 - Focused on **clean code, reliability, and long-term maintainability**  
 - Constantly learning and growing as an engineer 🚀
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+
 
 ## 🌐 Connect With Me
 
@@ -58,7 +65,7 @@ I enjoy working on **greenfield products**, system design, and performance optim
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 📊 GitHub Stats
 
@@ -66,12 +73,13 @@ I enjoy working on **greenfield products**, system design, and performance optim
 ![](https://nirzak-streak-stats.vercel.app/?user=ctrl-prem&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ctrl-prem&theme=dark&layout=compact)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=ctrl-prem&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 [![](https://visitcount.itsvg.in/api?id=ctrl-prem&icon=0&color=0)](https://visitcount.itsvg.in)
+![Snake animation](https://raw.githubusercontent.com/ctrl-prem/ctrl-prem/output/github-contribution-grid-snake.svg)
